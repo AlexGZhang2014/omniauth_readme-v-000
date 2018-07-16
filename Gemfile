@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'thin'
 gem 'omniauth'
-gem 'omniauth-facebook'
+gem 'omniauth-github'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
